@@ -1,0 +1,6 @@
+- mvp
+- rxJava
+- EventBus
+- Volley
+- dagger
+- fragment/Facebook
