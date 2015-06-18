@@ -8,3 +8,4 @@
 - `webview`展开的页面做好响应式适配，比如图片宽度，比如页面样式。
 - 节约手机空间，尽量保持单手、拇指操作习惯，布局上做好调整，保守一点采用流式布局。
 - APP框架上适当重构，首页和详情页的多次重复请求数据，考虑mvp设计思路来简化activity中代码。
+- Facebook style singleFragment: [One Activity for all other Fragments](http://stackoverflow.com/questions/12154505/one-activity-and-all-other-fragments)

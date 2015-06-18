@@ -4,3 +4,4 @@
 - Volley
 - dagger
 - fragment/Facebook
+- javax.inject
