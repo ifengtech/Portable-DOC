@@ -14,7 +14,12 @@
 >- 播放视频
 >- 再有一个特殊需求就是关乎Android程序UI设计，图标是个很麻烦的问题。每次都难以找到合适的Android 设计UI。
 
-<br>
+## 框架的选择
+正如上面提到的，APP开发涉及到的技术包含方方面面。在Github上也有大量的开源框架可供引用，但是如何在这些技术上以及框架上做好选择呢。这很大一部分是根据开发人员的项目经验决定，至于别人的框架程序员则会认为“不一定适合自己的”而予与否认。正好[Appbrain Stats][2]网站可以按照标签查找出自己想要的框架，还可以看到框架被其他APP采用的数据。
+
+[![](1)][2]
+
+
 ## Retrofit [[DOC]](http://square.github.io/retrofit/)
 A type-safe REST client for Android and Java
 
@@ -56,3 +61,6 @@ Use annotations to describe the HTTP request:
 
 - [NineOldAndroid](http://nineoldandroids.com/)
 - [ActionBarSherlock](http://actionbarsherlock.com/)
+
+[1]:https://github.com/ifengtech/Portable-DOC/blob/master/art/appbrain.png
+[2]:http://www.appbrain.com/stats/libraries
